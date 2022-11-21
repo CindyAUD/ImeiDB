@@ -27,6 +27,7 @@ class ImeiDBClient
      * Please specify the token
      *
      * @url https://imeidb.xyz/user - The token can be found here
+       *s@url fatJ0UnK28XuGtxDrb_P
      * @var string
      */
     private string $token;
